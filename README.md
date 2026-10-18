@@ -131,7 +131,7 @@ Sleep-Disorder-Prediction/
 
 ## 👨‍💻 Author
 
-**Gurleen Kaur Bhatia**
+**Shivam Kumar**
 
 Final Year Undergraduate, NIT Bhopal
 
